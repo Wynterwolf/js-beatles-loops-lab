@@ -27,4 +27,4 @@ function johnLennonFacts(factsArray) {
 //one
 function iLoveTheBeatles(int) {
   
-}// add solution here
+}
