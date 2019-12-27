@@ -28,3 +28,5 @@ function johnLennonFacts(factsArray) {
 function iLoveTheBeatles(int) {
   
 }
+
+//this is a test comment
