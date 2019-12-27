@@ -21,7 +21,7 @@ function theBeatlesPlay(musicians, instruments) {
 
 //seven & eight
 function johnLennonFacts(factsArray) {
-  
+  while (factsArray)
 }
 
 //one
