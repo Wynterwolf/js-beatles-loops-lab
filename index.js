@@ -1,32 +1,20 @@
 // add solution here
 
-//two
-let emptyArray = [];
-
-//one
 function theBeatlesPlay(musicians, instruments) {
-
-//three
-  function forLoop() {
-    for (var i = 0; i < musicians.length; i++){
-
-//four & five
-      emptyArray.push(`${musicians} plays ${instruments}`);
+  let emptyArray = [];
+    function forLoop() {
+      for (var i = 0; i < musicians.length; i++){
+        emptyArray.push(`${musicians} plays ${instruments}`);
     }
-
-//six
     return emptyArray;
-  }
-}
+    }}
 
-//seven & eight
+
 function johnLennonFacts(factsArray) {
-  while (factsArray)
+  while (factsArray > 0){
+    console.log(--factsArray);
+  }
+return `${factsArray}!!!`; 
 }
 
-//one
-function iLoveTheBeatles(int) {
-  
-}
-
-//this is a test comment
+//function iLoveTheBeatles(int) {}
