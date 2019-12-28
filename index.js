@@ -12,9 +12,7 @@ function theBeatlesPlay(musicians, instruments) {
 
 function johnLennonFacts(factsArray) {
   while (factsArray > 0){
-    console.log(--factsArray);
-  }
-return `${factsArray}!!!`; 
-}
+    return `${factsArray}!!!`; 
+}}
 
 //function iLoveTheBeatles(int) {}
